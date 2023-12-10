@@ -29,8 +29,7 @@ This is a simple Google Apps Script for tracking teacher attendance. The associa
 - [MIT App Inventor](https://appinventor.mit.edu/): Used for creating the mobile app interface.
 - [Google Apps Script](https://script.google.com/): Used for server-side scripting and handling data storage.
 
-## Contributing
+## Related Repositories
 
-Feel free to contribute to the project by opening issues or creating pull requests. Your feedback and improvements are highly appreciated!
-
-If you're looking for a simpler version of this attendance app, check out [Attendance App](https://github.com/Sudhanshu-Ambastha/Attendance-app).
+- [Attendance App](https://github.com/Sudhanshu-Ambastha/Attendance-app): Check out a simpler version of this attendance app.
+- [Send-data-to-google-sheets-creating-List-with-MIT-app-inventor](https://github.com/Sudhanshu-Ambastha/Send-data-to-google-sheets-creating-List-with-MIT-app-inventor): Visit this repository for creating a list with MIT App Inventor and sending data to Google Sheets.
