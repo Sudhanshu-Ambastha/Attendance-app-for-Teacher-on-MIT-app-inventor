@@ -33,7 +33,4 @@ This is a simple Google Apps Script for tracking teacher attendance. The associa
 
 Feel free to contribute to the project by opening issues or creating pull requests. Your feedback and improvements are highly appreciated!
 
-
-
-
-
+If you're looking for a simpler version of this attendance app, check out [Attendance App](https://github.com/Sudhanshu-Ambastha/Attendance-app).
